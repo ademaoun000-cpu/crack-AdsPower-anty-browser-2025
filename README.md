@@ -62,3 +62,4 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 For any questions or support, please open an issue in this repository.
 
 Happy and productive browsing! 🔋
+ 
